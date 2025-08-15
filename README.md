@@ -23,3 +23,5 @@ This is a simple C++ project simulating an **Online College Payment System**. It
 2. Compile the `.cpp` file.  
 3. Run the executable.  
 4. Follow the on-screen menu to perform CRUD operations.  
+
+![Project Screenshot](image.png)
