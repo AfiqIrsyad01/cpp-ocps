@@ -5,7 +5,7 @@ This is a simple C++ project simulating an **Online College Payment System**. It
 
 ![Static Badge](https://img.shields.io/badge/Developed%20With-indigo?style=flat)  
 - C++ (DevC++, TDM GCC 10.3.0)
-- Other (OnlineGDB)  
+- C#, C, Python, Java, Node.JS, Go, Rust and Kotlin (OnlineGDB)  
 - File handling via `.txt`  
 
 ---
