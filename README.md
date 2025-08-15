@@ -4,7 +4,8 @@
 This is a simple C++ project simulating an **Online College Payment System**. It allows users to manage student payment records with basic **CRUD operations** (Create, Read, Update, Delete) and saves the data into a `.txt` file for persistence.
 
 ![Static Badge](https://img.shields.io/badge/Developed%20With-indigo?style=flat)  
-- C++ (DevC++, TDM GCC 10.3.0)  
+- C++ (DevC++, TDM GCC 10.3.0)
+- Other (OnlineGDB)  
 - File handling via `.txt`  
 
 ---
