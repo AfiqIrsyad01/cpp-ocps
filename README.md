@@ -26,3 +26,4 @@ This is a simple C++ project simulating an **Online College Payment System**. It
 4. Follow the on-screen menu to perform CRUD operations.  
 
 ![Project Screenshot](image.png)
+![Project Screenshots](uiocps.png)
